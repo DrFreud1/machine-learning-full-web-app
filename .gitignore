@@ -1,0 +1,4 @@
+#Virtual Environment
+/localPythonEnv
+__pycache__/
+ *.pyc

@@ -1,0 +1,13 @@
+.container{
+    max-width: 75%;
+    margin-top: 15vh;
+    margin-bottom: 10vh;
+    border-radius: 6px;
+    background-color: green;
+}
+
+.title{
+    margin-top: 5px;
+    color: blue;
+    padding: 50%;
+}
